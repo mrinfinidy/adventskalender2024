@@ -17,8 +17,6 @@ interface DayClosedProps {
 }
 
 const DayClosed: React.FC<DayClosedProps> = ({ dayNumber, onToggle }) => {
-    const toast = useToast();
-
     return (
         <Card
           maxW="sm"
