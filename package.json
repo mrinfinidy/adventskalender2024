@@ -1,7 +1,7 @@
 {
-  "name": "menu-card",
-  "version": "0.1.0",
-  "homepage": "https://mrinfinidy.github.io/menu-card",
+  "name": "adventskalender",
+  "version": "0.2.0",
+  "homepage": "https://mrinfinidy.github.io/adventskalender2024",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
