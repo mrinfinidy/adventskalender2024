@@ -25,7 +25,7 @@ const DayOpen: React.FC<DayOpenprops> = ({ imageSrc, description }) => {
             <CardBody>
                 <Image
                     src={ imageSrc }
-                    alt="Cocktail image"
+                    alt="Foto des Tages"
                     borderRadius="lg"
                 />
             </CardBody>

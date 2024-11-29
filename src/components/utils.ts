@@ -1,11 +1,11 @@
+const month = new Date().getMonth();
+const dayOfMonth = new Date().getDate();
+
 export function isDayInPast (dayNumber: number): boolean { 
-  // const dayOfMonth = new Date().getDate();
-  const dayOfMonth = 5;
-  return dayNumber < dayOfMonth;
+  return dayNumber < dayOfMonth && month === 12;
 }
 
 export function isToday(dayNumber: number): boolean {
-  // const dayOfMonth = new Date().getDate();
-  const dayOfMonth = 5;
-  return dayNumber === dayOfMonth;
+  const month = 12;
+  return dayNumber <= dayOfMonth && month === 12;
 }

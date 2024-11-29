@@ -1,145 +1,145 @@
 const day1 = {
-  imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  imageSrc: "images/day1.jpg",
+  name: "Fenster 1",
+  description: "Zum ersten Advent ein zuper siaßes winterliches Bild"
 }
 
 const day2 = {
-  imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  imageSrc: "images/day2.jpg",
+  name: "Fenster 2",
+  description: "Du bisch einfach siaß <3"
 }
 
 const day3 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day4 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day5 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day6 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day7 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day8 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day9 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day10 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day11 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day12 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day13 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day14 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day15 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day16 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day17 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day18 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day19 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day20 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day21 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day22 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day23 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day24 = {
   imageSrc: "images/mojito.png",
-  name: "Die „Barbara\"",
-  description: "Tequila, Orangensaft, Zitronensaft, Grenadine und Eiswürfel"
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const days = [
