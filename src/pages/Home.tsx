@@ -1,16 +1,31 @@
 import { 
     Flex,
     Text,
+    useToast,
 } from '@chakra-ui/react'
 import { useState } from 'react';
 import Day from './Day';
 import "@fontsource/great-vibes";
 import "@fontsource/anton";
 import days from '../components/days';
+import { isToday } from '../components/utils';
 
 const Home = () => {
   const [openDays, setOpenDays] = useState(Array(24).fill(false));
+  const toast = useToast();
   const toggleDayOpen = (dayIndex: number) => {
+    if (!isToday(dayIndex + 1)) {
+      toast({
+        title: "Ganz geduldig!",
+        description: "Nur ein Fenster pro Tag :)",
+        duration: 3000,     
+        isClosable: true,   
+        position: "top",    
+        status: "warning",
+        colorScheme: "green",
+      });
+      return;
+    }
     setOpenDays((prevDays) =>
       prevDays.map((open, index) => (index === dayIndex ? !open : open))
     );
