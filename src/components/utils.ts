@@ -6,6 +6,5 @@ export function isDayInPast (dayNumber: number): boolean {
 }
 
 export function isToday(dayNumber: number): boolean {
-  const month = 12;
   return dayNumber <= dayOfMonth && month === 12;
 }
