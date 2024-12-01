@@ -48,15 +48,15 @@ const Home = () => {
           mb="4"
           fontFamily="Anton"
         >
-            ADVENTSKALENDER
+          🎄 ADVENTSKALENDER&nbsp;🎄
         </Text>
       </Flex>
       <Text
           fontFamily="Great Vibes"
           mb="2"
-          color="white"
+          color="yellow"
       >
-          „Für mein Marlisbär"
+        ♡ „Für mein Marlisbär" ♡
       </Text>
       {Array.from({ length: 24 }).map((_, index) => (
         <Day
