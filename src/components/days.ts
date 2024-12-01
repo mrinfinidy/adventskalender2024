@@ -5,15 +5,15 @@ const day1 = {
 }
 
 const day2 = {
-  imageSrc: "images/day2.jpg",
-  name: "Fenster 2",
-  description: "Du bisch einfach siaß <3"
+  imageSrc: "images/day-2.jpg",
+  name: "Name Placeholder",
+  description: "Description Placeholder"
 }
 
 const day3 = {
-  imageSrc: "images/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  imageSrc: "images/day3.jpg",
+  name: "Fenster 2",
+  description: "Du bisch einfach siaß <3"
 }
 
 const day4 = {
