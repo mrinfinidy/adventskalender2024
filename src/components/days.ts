@@ -5,7 +5,7 @@ const day1 = {
 }
 
 const day2 = {
-  imageSrc: "images/day-2.jpg",
+  imageSrc: "images/day2.jpg",
   name: "Name Placeholder",
   description: "Was hälts du von dem Café, das du mal an deinem Heimweg entdeckt hast?"
 }
