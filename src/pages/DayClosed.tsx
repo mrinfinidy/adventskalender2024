@@ -46,7 +46,7 @@ const DayClosed: React.FC<DayClosedProps> = ({ dayNumber, onToggle }) => {
                     color="#6c0200"
                     borderColor="#6c0200"
                   >
-                      ÖFNNEN
+                      ÖFFNEN
                   </Button>
               </Box>
           </Stack>
