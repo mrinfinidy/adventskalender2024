@@ -13,7 +13,7 @@ const day2 = {
 const day3 = {
   imageSrc: "images/day3.jpg",
   name: "Fenster 2",
-  description: "Du bisch einfach siaß <3"
+  description: "Du bisch einfach siaß ♥ Oft sind es die Bilder, von einer normalen Situation, wo du einfach in die Kamera schaust wie du mich auch normal anschaust."
 }
 
 const day4 = {
