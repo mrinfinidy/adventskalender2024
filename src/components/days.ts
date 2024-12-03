@@ -17,9 +17,9 @@ const day3 = {
 }
 
 const day4 = {
-  imageSrc: "images/mojito.png",
+  imageSrc: "images/day4.png",
   name: "Name Placeholder",
-  description: "Description Placeholder"
+  description: "Heute gibt es ein kleines italienisches Spielchen"
 }
 
 const day5 = {
