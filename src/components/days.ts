@@ -19,7 +19,7 @@ const day3 = {
 const day4 = {
   imageSrc: "images/day4.png",
   name: "Name Placeholder",
-  description: "Heute gibt es ein kleines italienisches Spielchen"
+  description: "Heute gibt es ein kleines italienisches Spielchen (https://puzzel.org/de/crossword/play?p=-ODBn2RNiLDneylmLpCb)"
 }
 
 const day5 = {
