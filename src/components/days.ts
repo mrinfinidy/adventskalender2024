@@ -6,20 +6,20 @@ const day1 = {
 
 const day2 = {
   imageSrc: "images/day2.jpg",
-  name: "Name Placeholder",
+  name: "Fenster 2",
   description: "Was hälts du von dem Café, das du mal an deinem Heimweg entdeckt hast?"
 }
 
 const day3 = {
   imageSrc: "images/day3.jpg",
-  name: "Fenster 2",
+  name: "Fenster 3",
   description: "Du bisch einfach siaß ♥ Oft sind es die Bilder, von einer normalen Situation, wo du einfach in die Kamera schaust wie du mich auch normal anschaust."
 }
 
 const day4 = {
   imageSrc: "images/day4.png",
-  name: "Name Placeholder",
-  description: "Heute gibt es ein kleines italienisches Spielchen (https://puzzel.org/de/crossword/play?p=-ODBn2RNiLDneylmLpCb)"
+  name: "Fenster 4",
+  description: "Heute gibt es ein kleines italienisches Spielchen: https://puzzel.org/de/crossword/play?p=-ODBn2RNiLDneylmLpCb"
 }
 
 const day5 = {
