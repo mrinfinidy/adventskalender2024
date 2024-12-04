@@ -23,7 +23,7 @@ const day4 = {
 }
 
 const day5 = {
-  imageSrc: "images/mojito.png",
+  imageSrc: "images/day5.png",
   name: "Fenster 5",
   description: "Heute gibt es die Wiener Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/tegqt"
 }
