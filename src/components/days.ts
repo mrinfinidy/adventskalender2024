@@ -29,7 +29,7 @@ const day5 = {
 }
 
 const day6 = {
-  imageSrc: "images/day6.gif",
+  imageSrc: "images/day6.webp",
   name: "Fenster 6",
   description: "Wie schön, dass du geboren bist...🎵 Ich freue mich jeden Tag, dass es dich gibt🐞"
 }
