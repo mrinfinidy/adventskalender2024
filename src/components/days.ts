@@ -29,9 +29,9 @@ const day5 = {
 }
 
 const day6 = {
-  imageSrc: "images/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  imageSrc: "images/day6.gif",
+  name: "Fenster 6",
+  description: "Wie schön, dass du geboren bist...🎵 Ich freue mich jeden Tag, dass es dich gibt🐞"
 }
 
 const day7 = {
