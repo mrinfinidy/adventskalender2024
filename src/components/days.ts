@@ -35,9 +35,9 @@ const day6 = {
 }
 
 const day7 = {
-  imageSrc: "images/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  imageSrc: "images/day7.png",
+  name: "Fenster 7",
+  description: "Heute gibt es die Karlsruher Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/q3an4"
 }
 
 const day8 = {
