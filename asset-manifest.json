@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adventskalender2024/static/css/main.623cecf8.css",
-    "main.js": "/adventskalender2024/static/js/main.813dd36a.js",
+    "main.js": "/adventskalender2024/static/js/main.74a6a6db.js",
     "static/media/great-vibes-latin-400-normal.woff2": "/adventskalender2024/static/media/great-vibes-latin-400-normal.be0bf4706b438d27744a.woff2",
     "static/media/anton-latin-ext-400-normal.woff2": "/adventskalender2024/static/media/anton-latin-ext-400-normal.45712a77f55f0831511a.woff2",
     "static/media/great-vibes-latin-400-normal.woff": "/adventskalender2024/static/media/great-vibes-latin-400-normal.57d7006f69c6a02f9054.woff",
@@ -36,10 +36,10 @@
     "static/media/oswald-vietnamese-400-normal.woff2": "/adventskalender2024/static/media/oswald-vietnamese-400-normal.a3465efd849ea2f438ef.woff2",
     "index.html": "/adventskalender2024/index.html",
     "main.623cecf8.css.map": "/adventskalender2024/static/css/main.623cecf8.css.map",
-    "main.813dd36a.js.map": "/adventskalender2024/static/js/main.813dd36a.js.map"
+    "main.74a6a6db.js.map": "/adventskalender2024/static/js/main.74a6a6db.js.map"
   },
   "entrypoints": [
     "static/css/main.623cecf8.css",
-    "static/js/main.813dd36a.js"
+    "static/js/main.74a6a6db.js"
   ]
 }
