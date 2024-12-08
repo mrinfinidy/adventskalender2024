@@ -30,6 +30,7 @@ const renderContent = (contentType: ContentType, contentSrc: string): JSX.Elemen
       return (
         <video
           src={ contentSrc }
+          controls
         />
       );
     default:
