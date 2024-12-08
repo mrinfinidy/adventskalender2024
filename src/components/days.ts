@@ -36,7 +36,7 @@ const day5 = {
 }
 
 const day6 = {
-  contentType: ContentType.Image,
+  contentType: ContentType.Video,
   contentSrc: "content/day6.mp4",
   name: "Fenster 6",
   description: "Wie schön, dass du geboren bist...🎵 Ich freue mich jeden Tag, dass es dich gibt🐞"
@@ -50,7 +50,7 @@ const day7 = {
 }
 
 const day8 = {
-  contentType: ContentType.Image,
+  contentType: ContentType.Video,
   contentSrc: "content/day8.mp4",
   name: "Fenster 8",
   description: "Das ist auch eines meiner Lieblingsvideos aus Italien. Es war dieser regnerische Tag, was aber auch ein besondere Atmosphäre hatte. Der Vormittag in diesem lokalen Café und dann die kurze Wanderung zur Piedigrotta - Wir zwei ganz allein."
