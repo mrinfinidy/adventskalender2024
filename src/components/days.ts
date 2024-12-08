@@ -41,9 +41,9 @@ const day7 = {
 }
 
 const day8 = {
-  imageSrc: "images/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  imageSrc: "images/day8.webp",
+  name: "Fenster 8",
+  description: "Das ist auch eines meiner Lieblingsvideos aus Italien. Es war dieser regnerische Tag, was aber auch ein besondere Atmosphäre hatte. Der Vormittag in diesem lokalen Café und dann die kurze Wanderung zur Piedigrotta - Wir zwei ganz allein."
 }
 
 const day9 = {
