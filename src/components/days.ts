@@ -60,7 +60,7 @@ const day9 = {
     contentType: ContentType.Video,
   contentSrc: "content/day9.mp4",
   name: "Fenster 9",
-  description: "Hundi + Marlis 🐶 Ich hätte so gerne einen Hund mit dir ❤️"
+  description: "Fernanda + Marlis 🐶 Ich hätte so gerne einen Hundi mit dir ❤️"
 }
 
 const day10 = {
