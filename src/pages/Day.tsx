@@ -2,19 +2,21 @@ import React from 'react';
 import DayOpen from './DayOpen';
 import DayClosed from './DayClosed';
 import { isDayInPast } from '../components/utils';
+import { ContentType } from '../components/utils';
 
 interface DayProps {
   dayOpen: boolean;
   dayNumber: number;
-  imageSrc: string;
+  contentType: ContentType
+  contentSrc: string;
   description: string;
   onToggle: () => void;
 }
 
-const Day: React.FC<DayProps> = ({ dayOpen, dayNumber, imageSrc, description, onToggle }) => {
+const Day: React.FC<DayProps> = ({ dayOpen, dayNumber, contentType, contentSrc, description, onToggle }) => {
 
   return isDayInPast(dayNumber) || dayOpen 
-    ? <DayOpen imageSrc={imageSrc} description={description} />
+    ? <DayOpen contentType={contentType} contentSrc={contentSrc} description={description} />
     : <DayClosed dayNumber={dayNumber} onToggle={onToggle} />;
 }
 

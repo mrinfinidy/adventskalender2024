@@ -11,3 +11,8 @@ export function isToday(dayNumber: number): boolean {
   console.log("month: ", month);
   return dayNumber <= dayOfMonth && month === 12;
 }
+
+export enum ContentType {
+  Image = "IMAGE",
+  Video = "VIDEO",
+}

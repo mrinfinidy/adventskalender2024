@@ -63,7 +63,8 @@ const Home = () => {
           key={index}
           dayOpen={openDays[index]}
           dayNumber={index + 1}
-          imageSrc={days[index].imageSrc}
+          contentType={days[index].contentType}
+          contentSrc={days[index].contentSrc}
           description={days[index].description}
           onToggle={() => toggleDayOpen(index)}
         />
