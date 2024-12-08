@@ -6,8 +6,7 @@ export function isDayInPast (dayNumber: number): boolean {
 }
 
 export function isToday(dayNumber: number): boolean {
-  // return dayNumber <= dayOfMonth && month === 12;
-  return true;
+  return dayNumber <= dayOfMonth && month === 12;
 }
 
 export enum ContentType {
