@@ -65,9 +65,9 @@ const day9 = {
 
 const day10 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentSrc: "content/day10.png",
+  name: "Fenster 10",
+  description: "Heute gibt es die Freiburger Edition vom Kreuzworträtsel: "
 }
 
 const day11 = {
