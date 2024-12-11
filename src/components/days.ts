@@ -67,14 +67,14 @@ const day10 = {
   contentType: ContentType.Image,
   contentSrc: "content/day10.png",
   name: "Fenster 10",
-  description: "Heute gibt es die Freiburger Edition vom Kreuzworträtsel: "
+  description: "Heute gibt es die Freiburger Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/m53yr"
 }
 
 const day11 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentSrc: "content/day11.png",
+  name: "Fenster 11",
+  description: "Heute gibt es die Family Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/zmw3v"
 }
 
 const day12 = {
