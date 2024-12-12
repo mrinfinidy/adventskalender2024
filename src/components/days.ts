@@ -78,10 +78,10 @@ const day11 = {
 }
 
 const day12 = {
-  contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentType: ContentType.Video,
+  contentSrc: "content/day12.mp4",
+  name: "Fenster 12",
+  description: "Mein süßer glücklicher Marlisbär, du machst mich so glücklich ❤️"
 }
 
 const day13 = {
