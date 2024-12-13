@@ -88,7 +88,7 @@ const day13 = {
   contentType: ContentType.Image,
   contentSrc: "content/day13.png",
   name: "Fenster 13",
-  description: "Heute gibt es die Film Edition vom Kreuzworträtsel: "
+  description: "Heute gibt es die Film Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/wadsm"
 }
 
 const day14 = {
