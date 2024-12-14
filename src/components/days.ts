@@ -92,10 +92,10 @@ const day13 = {
 }
 
 const day14 = {
-  contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentType: ContentType.Video,
+  contentSrc: "content/day14.mp4",
+  name: "Fenster 14",
+  description: "Au au au 🥰 Das war der letzte Tag von meinem ersten Besuch in Rom. Es ist so schön mit dir in Rom gewesen, dass ich da schon wusste, dass ich dich noch oft besuchen werde. Bacio ❤️"
 }
 
 const day15 = {
