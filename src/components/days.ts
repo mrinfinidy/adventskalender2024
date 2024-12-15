@@ -100,9 +100,9 @@ const day14 = {
 
 const day15 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentSrc: "content/day15.png",
+  name: "Fenster 15",
+  description: "Du kannst dir gerne frei aussuchen wo und wann. Mein Vorschläg wäre mit dir in Wien was Gutes essen zu gehen oder abends in eine stilvolle Bar zu gehen."
 }
 
 const day16 = {
