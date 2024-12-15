@@ -107,9 +107,9 @@ const day15 = {
 
 const day16 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentSrc: "content/day16.png",
+  name: "Fenster 16",
+  description: "Weißt du noch in DänemarK? Da habe ich dir das erste Mal: \"Ich liebe dich\" gesagt.❤️ Heute gibt es die Dänemark Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/tnref"
 }
 
 const day17 = {
