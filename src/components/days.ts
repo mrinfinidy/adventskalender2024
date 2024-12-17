@@ -114,57 +114,57 @@ const day16 = {
 
 const day17 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day17.png",
+  name: "Fenster 17",
   description: "Description Placeholder"
 }
 
 const day18 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
-  description: "Description Placeholder"
+  contentSrc: "content/day18.png",
+  name: "Fenster 18",
+  description: "Heute gibt es die Tropea Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/2cm4v"
 }
 
 const day19 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day19.png",
+  name: "Fenster 19",
   description: "Description Placeholder"
 }
 
 const day20 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day20.png",
+  name: "Fenster 20",
   description: "Description Placeholder"
 }
 
 const day21 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day21.png",
+  name: "Fenster 21",
   description: "Description Placeholder"
 }
 
 const day22 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day22.png",
+  name: "Fenster 22",
   description: "Description Placeholder"
 }
 
 const day23 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day23.png",
+  name: "Fenster 23",
   description: "Description Placeholder"
 }
 
 const day24 = {
   contentType: ContentType.Image,
-  contentSrc: "content/mojito.png",
-  name: "Name Placeholder",
+  contentSrc: "content/day24.png",
+  name: "Fenster 24",
   description: "Description Placeholder"
 }
 
