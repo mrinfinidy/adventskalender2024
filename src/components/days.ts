@@ -116,14 +116,14 @@ const day17 = {
   contentType: ContentType.Image,
   contentSrc: "content/day17.png",
   name: "Fenster 17",
-  description: "Description Placeholder"
+  description: "Heute gibt es die Tropea Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/2cm4v"
 }
 
 const day18 = {
   contentType: ContentType.Image,
   contentSrc: "content/day18.png",
   name: "Fenster 18",
-  description: "Heute gibt es die Tropea Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/2cm4v"
+  description: "Heute gibt es die Spiele Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/m26vh"
 }
 
 const day19 = {
