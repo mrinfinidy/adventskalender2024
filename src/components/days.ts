@@ -130,7 +130,7 @@ const day19 = {
   contentType: ContentType.Image,
   contentSrc: "content/day19.png",
   name: "Fenster 19",
-  description: "Description Placeholder"
+  description: "Heute gibt es die Tier Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/8u2qe"
 }
 
 const day20 = {
