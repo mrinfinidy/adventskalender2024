@@ -137,7 +137,7 @@ const day20 = {
   contentType: ContentType.Image,
   contentSrc: "content/day20.png",
   name: "Fenster 20",
-  description: "Description Placeholder"
+  description: "Heute gibt es die \"Geographie\" Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/yensv"
 }
 
 const day21 = {
