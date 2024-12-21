@@ -144,7 +144,7 @@ const day21 = {
   contentType: ContentType.Image,
   contentSrc: "content/day21.png",
   name: "Fenster 21",
-  description: "Description Placeholder"
+  description: "Heute gibt es die Essensedition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/8ywz7"
 }
 
 const day22 = {
