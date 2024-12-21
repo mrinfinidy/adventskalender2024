@@ -151,7 +151,7 @@ const day22 = {
   contentType: ContentType.Image,
   contentSrc: "content/day22.png",
   name: "Fenster 22",
-  description: "Description Placeholder"
+  description: "Heute gibt es die Serien-Edition vom Kreuzworträtsel :https://www.xwords-generator.de/de/solve/z3zrk"
 }
 
 const day23 = {
