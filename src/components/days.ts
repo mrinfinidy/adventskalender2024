@@ -158,14 +158,14 @@ const day23 = {
   contentType: ContentType.Image,
   contentSrc: "content/day23.png",
   name: "Fenster 23",
-  description: "Description Placeholder"
+  description: "Heute gibt es die Geburtstags-Edition vom Kreuzworträtsel: https://www.xwords-generator.de/de/solve/9s8es"
 }
 
 const day24 = {
   contentType: ContentType.Image,
-  contentSrc: "content/day24.png",
+  contentSrc: "content/day24.jpg",
   name: "Fenster 24",
-  description: "Description Placeholder"
+  description: "Das Geschenk vom 24. Türchen versteckt sich in deinem Zimmer. Öffne eine Tür und suche weit unten."
 }
 
 const days = [
